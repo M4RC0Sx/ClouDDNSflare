@@ -58,7 +58,7 @@ module.exports = {
         [
             "@codedependant/semantic-release-docker",
             {
-                dockerImage: "clouddnsflare",
+                dockerImage: "m4rc0sx/clouddnsflare",
                 dockerRegistry: `${process.env.DOCKER_REGISTRY}`,
                 dockerTags: ["latest", "{{version}}"],
             },
