@@ -67,7 +67,7 @@ module.exports = {
             {
                 message:
                     "chore: release ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
-                assets: ["CHANGELOG.md", "package.json"],
+                assets: ["CHANGELOG.md", "pyproject.toml"],
             },
         ],
     ],
