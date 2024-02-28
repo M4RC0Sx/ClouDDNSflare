@@ -26,4 +26,5 @@ jobs:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }}
                   DOCKER_REGISTRY_USER: ${{ secrets.DOCKER_USERNAME }}
                   DOCKER_REGISTRY_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+                  DOCKER_REGISTRY: "docker.io"
               run: npx semantic-release
