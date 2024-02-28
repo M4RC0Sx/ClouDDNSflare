@@ -1,6 +1,6 @@
 # ClouDDNSflare
 A Docker DDNS/DynDNS (Dynamic DNS) alternative for your domains set up in Cloudflare. 
-Access your home network from the outside with your own domain without worrying about dynamic IP!
+Access your home network from the outside with your own domain without worrying about dynamic IP! Forget about third-party services.
 
 ## Usage
 You just need to start a Docker container:
