@@ -7,7 +7,7 @@ You just need to start a Docker container:
 
 ### Docker run
 ```bash
-docker run \
+docker run -d \
 --restart always \
 -e PUBLIC_IP_PROVIDER=https://api.ipify.org \
 -e REFRESH_MINUTES=5 \
