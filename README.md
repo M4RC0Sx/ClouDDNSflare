@@ -1,5 +1,5 @@
 # ClouDDNSflare
-Docker compose setup to run PiHole + Unbound DNS + WireGuard (UI) + DDNS (optional) + PiAlert (optional) behind a Traefik Proxy.
+A Docker DDNS/DynDNS (Dynamic DNS) alternative for your domains set up in Cloudflare. 
 Access your home network from the outside with your own domain without worrying about dynamic IP!
 
 ## Usage
