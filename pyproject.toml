@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "clouddnsflare"
-version = "0.1.0"
+version = "1.0.1"
 description = "A Docker DDNS/DynDNS (Dynamic DNS) alternative for your domains set up in Cloudflare."
 authors = ["M4RC0Sx"]
 license = "GNU General Public License"
