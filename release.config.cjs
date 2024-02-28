@@ -58,7 +58,7 @@ module.exports = {
         [
             "@codedependant/semantic-release-docker",
             {
-                dockerImage: "socialcraft-discord",
+                dockerImage: "clouddnsflare",
                 dockerTags: ["latest", "{{version}}"],
             },
         ],
